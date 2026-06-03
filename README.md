@@ -17,7 +17,11 @@
   <img src="https://img.shields.io/github/stars/Geez-void?affiliations=OWNER&style=for-the-badge&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=Geez-void&style=for-the-badge" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Geez-void&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Geez-void?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Geez-void?affiliations=OWNER&style=for-the-badge" />
+</p>
 - ⚡ Fun fact **I Think I am Funny**
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
