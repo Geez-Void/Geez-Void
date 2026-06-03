@@ -1,134 +1,159 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:1a1a2e,100:0f0f0f&height=180&section=header&text=GEEZ-VOID&fontSize=68&fontColor=c9c9c9&animation=blinking&fontAlignY=55&desc=I'm%20Batman.&descAlignY=78&descSize=18&descColor=555555" />
+<!--
+**Geez-Void/Geez-Void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<h1 align="center">Hi 👋, I'm Vishesh Datta</h1>
+
+<h3 align="center">I'm an 18 years old Machine Learning & Artificial Intelligence Enthusiast from India.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geez-void&label=Profile%20views&color=0e75b6&style=flat" alt="geez-void" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geez-void" alt="geez-void" /></a> </p>
+
+- ⚡ Fun fact **I Think I am Funny**
+
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+  
+
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
 
-<div align="center">
+</td><td valign="top" width="33%">
 
-```
-╔═══════════════════════════════════════════════════════╗
-║  > whoami                                             ║
-║  Geez-Void — Backend & Full Stack Developer           ║
-║  > motto                                              ║
-║  "I'm Batman."                                        ║
-║  > status                                             ║
-║  [████████████░░░] building in the dark...            ║
-╚═══════════════════════════════════════════════════════╝
-```
 
+
+### Backend  
+<div align="center">  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
----
+</td><td valign="top" width="33%">
 
-<div align="center">
 
-![](https://komarev.com/ghpvc/?username=Geez-Void&label=PROFILE+VIEWS&color=333333&style=for-the-badge)
-![](https://img.shields.io/github/followers/Geez-Void?label=FOLLOWERS&style=for-the-badge&color=1a1a2e&labelColor=0d0d0d&logoColor=white&logo=github)
-![](https://img.shields.io/github/stars/Geez-Void?label=STARS&style=for-the-badge&color=1a1a2e&labelColor=0d0d0d&logo=github)
 
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
----
+</td></tr></table>  
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   ABOUT   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+<br/>  
 
-```python
-class GeeZVoid:
-    alias       = "Batman"
-    role        = ["Backend Developer", "Full Stack Engineer"]
-    os          = "Arch Linux  # btw"
-    hardware    = "Raspberry Pi"
-    philosophy  = "Silent. Efficient. Deadly."
-    currently   = "Building something you can't see yet."
-    hobbies     = ["low-level hacking", "docker-compose up", "cargo build"]
-```
 
----
+## Connect with me  
+<div align="center">
+<a href="https://twitter.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Geez-Void" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   ARSENAL   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+<br/>  
 
-**Systems & Low-Level**
 
-![C](https://img.shields.io/badge/C-1c1c1c?style=for-the-badge&logo=c&logoColor=aaaaaa)
-![C++](https://img.shields.io/badge/C++-1c1c1c?style=for-the-badge&logo=cplusplus&logoColor=aaaaaa)
-![Rust](https://img.shields.io/badge/Rust-1c1c1c?style=for-the-badge&logo=rust&logoColor=ce6b27)
-![Python](https://img.shields.io/badge/Python-1c1c1c?style=for-the-badge&logo=python&logoColor=4b8bbe)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Geez-Void&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-**Web & Backend**
+<br/>  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?style=for-the-badge&logo=javascript&logoColor=c8aa3a)
-![Java](https://img.shields.io/badge/Java-1c1c1c?style=for-the-badge&logo=openjdk&logoColor=aaaaaa)
-![MySQL](https://img.shields.io/badge/MySQL-1c1c1c?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-**Infrastructure & OS**
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1c1c1c?style=for-the-badge&logo=archlinux&logoColor=1793D1)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1c1c1c?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
-![Docker](https://img.shields.io/badge/Docker-1c1c1c?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-1c1c1c?style=for-the-badge&logo=linux&logoColor=dddddd)
+<br/>  
 
-**Tools**
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
-![Git](https://img.shields.io/badge/Git-1c1c1c?style=for-the-badge&logo=git&logoColor=F05032)
-![Vim](https://img.shields.io/badge/Vim-1c1c1c?style=for-the-badge&logo=vim&logoColor=019733)
-![VS Code](https://img.shields.io/badge/VSCode-1c1c1c?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-
----
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   STATS   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+<br/>  
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Geez-Void&&style=flat-square" align="center" />
+</div>  
+  
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Geez-Void&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=666666&icon_color=444444&text_color=888888" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Geez-Void&theme=dark&hide_border=true&background=0d0d0d&ring=444444&fire=ce6b27&currStreakLabel=666666&sideLabels=555555&dates=444444" />
+<br/>  
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geez-Void&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=666666&text_color=888888" />
+<div align="center"></div>
+<br />
 
-</div>
-
----
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TROPHIES  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Geez-Void&theme=onestar&no-frame=true&column=6&margin-w=6" />
-</div>
-
----
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CONTACT  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/GMAIL-1c1c1c?style=for-the-badge&logo=gmail&logoColor=555555)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=555555)](https://linkedin.com/in/geez-void)
-[![GitHub](https://img.shields.io/badge/GITHUB-1c1c1c?style=for-the-badge&logo=github&logoColor=555555)](https://github.com/Geez-Void)
-
-</div>
-
----
-
-<div align="center">
-
-```
-  "It's not who I am underneath,
-   but what I build that defines me."
-                         — Geez-Void
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=100&section=footer" />
-
-*⚠️ README uniquely crafted for* **@Geez-Void**
-
-</div>
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
