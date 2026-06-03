@@ -1,117 +1,134 @@
 <div align="center">
 
-<!-- Animated Banner / Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,50:00dbde,100:f7971e&height=200&section=header&text=Geez-Void&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=I'm%20Batman&descAlignY=58&descSize=22&descColor=ffffffcc" />
-
-<!-- Badges Row -->
-<p>
-  <a href="https://github.com/Geez-Void">
-    <img src="https://komarev.com/ghpvc/?username=Geez-Void&label=Profile+views&color=fc00ff&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/github/stars/Geez-Void?style=for-the-badge&label=Stars&color=f7971e&logo=github" />
-  <img src="https://img.shields.io/github/followers/Geez-Void?style=for-the-badge&label=Followers&color=00dbde&logo=github" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:1a1a2e,100:0f0f0f&height=180&section=header&text=GEEZ-VOID&fontSize=68&fontColor=c9c9c9&animation=blinking&fontAlignY=55&desc=I'm%20Batman.&descAlignY=78&descSize=18&descColor=555555" />
 
 </div>
 
----
+<div align="center">
 
-### 🦇 About Me
-
-```bash
-$ whoami
-> Geez-Void — "I'm Batman."
+```
+╔═══════════════════════════════════════════════════════╗
+║  > whoami                                             ║
+║  Geez-Void — Backend & Full Stack Developer           ║
+║  > motto                                              ║
+║  "I'm Batman."                                        ║
+║  > status                                             ║
+║  [████████████░░░] building in the dark...            ║
+╚═══════════════════════════════════════════════════════╝
 ```
 
-- 🔧 **Backend & Full Stack** developer — I build the things behind the things
-- 🐧 Arch Linux enjoyer — *btw*
-- 🥧 Raspberry Pi tinkerer & embedded systems dabbler
-- 🦀 Rust believer, C/C++ veteran, Python everyday
-- 🐳 Docker everything, break nothing (usually)
-- 🌑 Behind the terminal, beyond the build
+</div>
 
 ---
-
-### 🧲 Find Me
-
-<p>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/geez-void"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Geez-Void"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<!-- Row 1: Systems & Low-level -->
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-f74c00?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<!-- Row 2: Web & Runtime -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<!-- Row 3: Infra & OS -->
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<!-- Row 4: Dev tools -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-
----
-
-### 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Geez-Void&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=fc00ff&icon_color=00dbde&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Geez-Void&theme=radical&hide_border=true&background=0d0d0d&ring=fc00ff&fire=f7971e&currStreakLabel=00dbde" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geez-Void&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=fc00ff&text_color=ffffff" />
+![](https://komarev.com/ghpvc/?username=Geez-Void&label=PROFILE+VIEWS&color=333333&style=for-the-badge)
+![](https://img.shields.io/github/followers/Geez-Void?label=FOLLOWERS&style=for-the-badge&color=1a1a2e&labelColor=0d0d0d&logoColor=white&logo=github)
+![](https://img.shields.io/github/stars/Geez-Void?label=STARS&style=for-the-badge&color=1a1a2e&labelColor=0d0d0d&logo=github)
 
 </div>
 
 ---
 
-### 🏆 Trophies
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   ABOUT   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+```python
+class GeeZVoid:
+    alias       = "Batman"
+    role        = ["Backend Developer", "Full Stack Engineer"]
+    os          = "Arch Linux  # btw"
+    hardware    = "Raspberry Pi"
+    philosophy  = "Silent. Efficient. Deadly."
+    currently   = "Building something you can't see yet."
+    hobbies     = ["low-level hacking", "docker-compose up", "cargo build"]
+```
+
+---
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   ARSENAL   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+**Systems & Low-Level**
+
+![C](https://img.shields.io/badge/C-1c1c1c?style=for-the-badge&logo=c&logoColor=aaaaaa)
+![C++](https://img.shields.io/badge/C++-1c1c1c?style=for-the-badge&logo=cplusplus&logoColor=aaaaaa)
+![Rust](https://img.shields.io/badge/Rust-1c1c1c?style=for-the-badge&logo=rust&logoColor=ce6b27)
+![Python](https://img.shields.io/badge/Python-1c1c1c?style=for-the-badge&logo=python&logoColor=4b8bbe)
+
+**Web & Backend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?style=for-the-badge&logo=javascript&logoColor=c8aa3a)
+![Java](https://img.shields.io/badge/Java-1c1c1c?style=for-the-badge&logo=openjdk&logoColor=aaaaaa)
+![MySQL](https://img.shields.io/badge/MySQL-1c1c1c?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+**Infrastructure & OS**
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1c1c1c?style=for-the-badge&logo=archlinux&logoColor=1793D1)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1c1c1c?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
+![Docker](https://img.shields.io/badge/Docker-1c1c1c?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-1c1c1c?style=for-the-badge&logo=linux&logoColor=dddddd)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-1c1c1c?style=for-the-badge&logo=git&logoColor=F05032)
+![Vim](https://img.shields.io/badge/Vim-1c1c1c?style=for-the-badge&logo=vim&logoColor=019733)
+![VS Code](https://img.shields.io/badge/VSCode-1c1c1c?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+---
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   STATS   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Geez-Void&theme=radical&no-frame=true&column=6&margin-w=8" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Geez-Void&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=666666&icon_color=444444&text_color=888888" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Geez-Void&theme=dark&hide_border=true&background=0d0d0d&ring=444444&fire=ce6b27&currStreakLabel=666666&sideLabels=555555&dates=444444" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geez-Void&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=666666&text_color=888888" />
+
 </div>
 
 ---
 
-### ⭐ Pinned / Interesting Repos
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TROPHIES  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-> *(Pin your best repos on GitHub — they'll show up automatically below your profile)*
-
-<!-- You can also manually add repo cards like this: -->
-<!--
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Geez-Void&repo=YOUR_REPO&theme=radical&hide_border=true&bg_color=0d0d0d)](https://github.com/Geez-Void/YOUR_REPO)
--->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Geez-Void&theme=onestar&no-frame=true&column=6&margin-w=6" />
+</div>
 
 ---
 
-### 💰 Support
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CONTACT  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-<a href="https://www.buymeacoffee.com/geez-void">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
-</a>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/GMAIL-1c1c1c?style=for-the-badge&logo=gmail&logoColor=555555)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=555555)](https://linkedin.com/in/geez-void)
+[![GitHub](https://img.shields.io/badge/GITHUB-1c1c1c?style=for-the-badge&logo=github&logoColor=555555)](https://github.com/Geez-Void)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,50:00dbde,100:fc00ff&height=120&section=footer" />
+```
+  "It's not who I am underneath,
+   but what I build that defines me."
+                         — Geez-Void
+```
 
-> ⚠️ *README uniquely designed for* **@Geez-Void**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=100&section=footer" />
+
+*⚠️ README uniquely crafted for* **@Geez-Void**
 
 </div>
