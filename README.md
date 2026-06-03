@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="jpg" width="200">
+  <img src="cats_animated_pink_trees_pixelated_brigde_sakura.gif" width="200">
 </p>
 
 
