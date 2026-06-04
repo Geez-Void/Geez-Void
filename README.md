@@ -95,19 +95,10 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://Geez-Void.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Geez-Void&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
 
 ---
 <p align="center">
