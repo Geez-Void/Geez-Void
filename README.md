@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/github/forks/Geez-void/repo-name?style=for-the-badge&logo=github" />
 </p>
 
+<br/>  
+
 #  💫 About Me
 - ⚡ Fun fact **I Think I am Funny**
 
@@ -34,7 +36,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-
+<br/>  
 
 
 ## My Skill Set  
