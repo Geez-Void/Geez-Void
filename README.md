@@ -99,6 +99,27 @@
 
 </div>
 
+<!-- Best Repositories -->
+<div align="center">
+  <h3>⭐️ Interesting Repositories</h3>
+  <p align="center">
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" /></a>
+<a href="https://github.com/JoshuaThadi/Void-OSE">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Void-OSE" /></a>
+<a href="https://github.com/JoshuaThadi/IDE-Cosmo">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=IDE-Cosmo" /></a>
+<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Books-Of-Knowledge" /></a>
+<a href="https://github.com/JoshuaThadi/PixelVault">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=PixelVault" /></a>
+<a href="https://github.com/JoshuaThadi/My-Projects">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=My-Projects" /></a>
+  </p>
+</div>
+
+
+
 </div>
 
 
