@@ -26,14 +26,13 @@
 
 - ⚡ Fun fact **I Think I am Funny**
 
+- 🐧 Arch Linux enjoyer — btw
+
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
-
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
   
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
 
 - ⚡ Fun fact: I use tabs over spaces  
   
@@ -41,7 +40,22 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set 
+
+<!-- Languages & Tools -->
+<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
+  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+</div>
+
+<br>
+
+
+
+
 <table><tr><td valign="top" width="33%">
 
 
