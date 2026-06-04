@@ -23,8 +23,7 @@
 
 #  💫 About Me
 
-&nbsp;&nbsp;&nbsp;
-<img align="right" width="220" src="./eeee">
+<img align="right" width="250" src="eeee">&nbsp;&nbsp;&nbsp;&nbsp;
 
 - ⚡ Fun fact **I Think I am Funny**
 
