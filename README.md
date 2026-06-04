@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="/green.gif" width="100%">
+</p>
+
+
+<p align="center">
   <img src="/cats_animated_pink_trees_pixelated_brigde_sakura.gif" width="90%">
 </p>
 
