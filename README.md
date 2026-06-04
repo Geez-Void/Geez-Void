@@ -3,12 +3,6 @@
 </p>
 
 
-<p align="center">
-  <img src="/cats_animated_pink_trees_pixelated_brigde_sakura.gif" width="90%">
-</p>
-
-
-
 <h1 align="center">Hi 👋, I'm Vishesh Datta</h1>
 
 <h3 align="center">I'm an 18 years old Machine Learning & Artificial Intelligence Enthusiast from India.</h3>
@@ -164,8 +158,11 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ---
+
 <p align="center">
-  <img src="/green.gif" width="100%">
+  <img src="/cats_animated_pink_trees_pixelated_brigde_sakura.gif" width="90%">
 </p>
+
+
 
 
