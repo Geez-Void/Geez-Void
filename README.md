@@ -22,7 +22,7 @@
 
 #  💫 About Me
 
-<img align="right" width="250" src="eeee">&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" width="250" src="eeee">
 
 - ⚡ Fun fact **I Think I am Funny**
 
@@ -158,11 +158,6 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ---
-
 <p align="center">
   <img src="/cats_animated_pink_trees_pixelated_brigde_sakura.gif" width="90%">
 </p>
-
-
-
-
